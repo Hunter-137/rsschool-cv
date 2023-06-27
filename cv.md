@@ -19,14 +19,14 @@
 ***
 ## *Профессиональные навыки:*
 1. Базовый уровень:
-- Git, GitHub
-- HTML, CSS
-- JavaScript
-- VS Code
-- Bash on Ubuntu
+    - Git, GitHub
+    - HTML, CSS
+    - JavaScript
+    - VS Code
+    - Bash on Ubuntu
 2. Продвинутый уровень:
-- Excel
-- 1c 
+    - Excel
+    - 1c 8.2/8.3
 ***
 ## *Пример кода*
 Напишите функцию isEmpty(obj), которая возвращает true, если у объекта нет свойств, иначе false.
@@ -54,20 +54,20 @@ alert( isEmpty(schedule) ); // false
 ***
 ## *Курсы:*
 1. Пройдено:
-- Основы HTML на [ютубе](https://www.youtube.com/watch?v=4jYYHaTwWvY&t=52s&ab_channel=DKA-DEVELOP)
-- Основы HTML и CSS по плейлисту на [ютубе](https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr)
-- JavaScript: обучение JS для начинающих на [code-basics](https://code-basics.com/ru/languages/javascript)
-- Основы командной строки на [hexlet](https://ru.hexlet.io/courses/cli-basics/summary)
-- Введение в Git на [hexlet](https://ru.hexlet.io/courses/intro_to_git/summary)
-- Основы JavaScript на [hexlet](https://ru.hexlet.io/courses/js-basics/summary)
+    - Основы HTML на [ютубе](https://www.youtube.com/watch?v=4jYYHaTwWvY&t=52s&ab_channel=DKA-DEVELOP)
+    - Основы HTML и CSS по плейлисту на [ютубе](https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr)
+    - JavaScript: обучение JS для начинающих на [code-basics](https://code-basics.com/ru/languages/javascript)
+    - Основы командной строки на [hexlet](https://ru.hexlet.io/courses/cli-basics/summary)
+    - Введение в Git на [hexlet](https://ru.hexlet.io/courses/intro_to_git/summary)
+    - Основы JavaScript на [hexlet](https://ru.hexlet.io/courses/js-basics/summary)
 2. В процессе:
-- JavaScript на сайте [learn.javascript](https://learn.javascript.ru/)
-- Фронтенд на RS Schools "JavaScript/Front-end. Stage 0"
+    - JavaScript на сайте [learn.javascript](https://learn.javascript.ru/)
+    - Фронтенд на RS Schools "JavaScript/Front-end. Stage 0"
 ***
 ## *Языки:*
 - Русский язык (родной)
 - Английский язык (Elementary)
 ## *Другие достижения:*
 1. Стрельба из классического лука на дистанции 18 метров:
-- 20 серий по 3 выстрела: 454 очков набрано -- разряд второй взрослый.
+    - 20 серий по 3 выстрела: 454 очков набрано -- разряд второй взрослый.
 2. Скорость печати по русской раскладке на сайте [ratatype](https://www.ratatype.com/) ![myCertificate](https://www.ratatype.com/certificates/ru/ru/6/4/8/5628648.webp?1687860988)
