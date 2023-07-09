@@ -1,1 +1,2 @@
-[click to view my cv file](https://Hunter-137.github.io/rsschool-cv)
+https://Hunter-137.github.io/rsschool-cv/cv
+https://Hunter-137.github.io/rsschool-cv/
