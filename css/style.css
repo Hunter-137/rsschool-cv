@@ -65,6 +65,10 @@ header {
     list-style: none;
   }
 
+  .wrapper {
+    list-style-type: none;
+  }
+
   .nav-link {
     color: #000000;
     padding: 20px 20px;
